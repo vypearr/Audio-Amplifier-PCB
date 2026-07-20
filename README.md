@@ -32,7 +32,7 @@ A custom two-channel audio amplifier and headphone-output PCB designed in KiCad.
 ## Tools
 
 - KiCad 9
-- Gerber and Excellon fabrication outputs
+- Gerber fabrication outputs
 
 ## Author
 
