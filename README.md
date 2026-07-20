@@ -29,10 +29,6 @@ A custom two-channel audio amplifier and headphone-output PCB designed in KiCad.
 - `gerbers/` — fabrication layers, drill files, and the Gerber job file
 - `docs/` — schematic captures and PCB-layout image
 
-## Manufacturing note
-
-The included files are design artifacts and fabrication outputs. Verify the schematic, footprints, clearances, polarity, thermal performance, and Gerber layers before ordering or assembling a board. The design works with mains-derived power; use an isolated, correctly rated supply and follow appropriate electrical-safety practices.
-
 ## Tools
 
 - KiCad 9
