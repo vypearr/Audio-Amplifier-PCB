@@ -1,0 +1,6 @@
+*.bak
+*.bck
+*-backups/
+*.lck
+*.tmp
+~*
