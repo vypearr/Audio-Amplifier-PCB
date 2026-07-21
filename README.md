@@ -2,7 +2,15 @@
 
 A custom two-channel audio amplifier and headphone-output PCB designed in KiCad. The design combines a dual-channel analog signal path, complementary transistor output stages, adjustable split-rail power regulation, and board-level audio and power connections.
 
-![PCB layout](docs/pcb-layout.png)
+![Assembled stereo audio amplifier PCB](docs/assembled-pcb.jpg)
+
+## Fabricated hardware
+
+The design was taken from schematic and layout through PCB fabrication and through-hole assembly.
+
+| Fabricated PCB | Assembled board |
+| --- | --- |
+| ![Bare fabricated audio amplifier PCB](docs/fabricated-pcb.jpg) | ![Audio amplifier PCB populated with soldered components](docs/assembled-pcb.jpg) |
 
 ## Design overview
 
@@ -13,6 +21,7 @@ A custom two-channel audio amplifier and headphone-output PCB designed in KiCad.
 - Split `+15 V` / `-15 V` supply rails
 - Stereo line input, volume control, headphone output, power switch, and fuse
 - Two-layer through-hole PCB layout with four mounting points
+- Fabricated and hand-assembled physical prototype
 
 ## Schematics
 
@@ -27,7 +36,7 @@ A custom two-channel audio amplifier and headphone-output PCB designed in KiCad.
 ## Repository contents
 
 - `gerbers/` — fabrication layers, drill files, and the Gerber job file
-- `docs/` — schematic captures and PCB-layout image
+- `docs/` — fabrication photos, assembly photo, schematic captures, and PCB-layout image
 
 ## Tools
 
